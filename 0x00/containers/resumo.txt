@@ -1,0 +1,19 @@
+O que são contêineres?
+R: Um container é um ambiente isolado utilizado para empacotar aplicações. container contém um conjunto de processos que são executados a partir de uma imagem, imagem esta que fornece todos os arquivos necessários. Os containers compartilham o mesmo kernel e isolam os processos da aplicação do restante do sistema operacional
+
+Para que se usa um contêiner?
+R: Containers têm o objetivo de segregar e facilitar a portabilidade de aplicações em diferentes ambientes.
+
+Quais são os benefícios dos contêineres?
+R: Portabilidade, Velocidade, Escalabilidade, Isolamento de falhas, Segurança, Facilidade de gerenciamento, Amigável para desenvolvedores.
+
+Quais são os desafios dos contêineres?
+R: o Docker é excelente para gerenciar contêineres únicos. Mas com uma quantidade crescente de contêineres e aplicações em contêineres segregados em centenas de partes, o gerenciamento e a orquestração se tornou um grande desafio. Para
+isso surgiu a orquestração de contêineres. Existem alguns orquestradores disponíveis no mercado, como o Docker Swarm e Kubernetes.
+
+Quais as diferenças entre containers e máquinas virtuais (VMs) ?
+R: São duas tecnologias completamente diferentes. Máquina virtual (ou VM de Virtual Machine) é um programa que cria um ambiente virtual dentro de um computador ou de uma nuvem. O objetivo é permitir a instalação e a execução de um outro sistema operacional.
+Contêineres não precisam de um sistema operacional para “rodar”. Ela depende apenas dos recursos do sistema e do kernel, podemos dizer que o container é a virtualização da sua aplicação e não do sistema operacional como um todo.
+
+Quais são as principais ferramentas e tecnologias de contêiner?
+Docker e Kubernetes são os grandes nomes na área de contêineres. O Docker é uma plataforma de contêiner de código aberto. O Kubernetes é a opção mais popular para orquestração de contêineres — embora existam alternativas como Docker Swarm e VMware Tanzu.
