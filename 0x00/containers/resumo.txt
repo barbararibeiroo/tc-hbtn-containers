@@ -4,7 +4,7 @@ R: Um container é um ambiente isolado utilizado para empacotar aplicações. co
 Para que se usa um contêiner?
 R: Containers têm o objetivo de segregar e facilitar a portabilidade de aplicações em diferentes ambientes.
 
-Quais são os benefícios dos contêineres?
+Quais são os benefícios dos Contêineres?
 R: Portabilidade, Velocidade, Escalabilidade, Isolamento de falhas, Segurança, Facilidade de gerenciamento, Amigável para desenvolvedores.
 
 Quais são os desafios dos contêineres?
